@@ -1,0 +1,984 @@
+.ho-me2{
+    position: absolute;
+    top: 850px;
+    left: 500px;
+    font-size: 30px;
+    border: solid 1px white;
+    border-radius: 20px;
+    padding-left: 20px;
+    width: 40%;
+    height: 5%;
+}
+.menulogoform{
+    position: absolute;
+    top: 50px;
+    left: 735px;
+}
+.menu{
+    display: flex;
+    color: white;
+}
+#resevation{
+    background-color: grey;
+    border-radius: 10px;
+    width: 30px;
+}
+.kitisuru{
+    background-image:url(images/65c34fee7c31fcb2f8c3700b_001.jpg) ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 80%;
+        height: 60vh;
+        padding-left: 20%;
+        padding-top: 20%
+}
+
+#refertokaribu{
+    padding-left: 900px;
+    position: absolute;
+    font-size: 40px;
+}
+
+#refertokitisuru{ font-size: 40px;}
+
+#kalibu{
+    color: rgb(243, 216, 12);
+    font-size: 20px;
+}
+
+.kilimani{
+    background-image:url(images/ankoleoutside.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80%;
+    height: 60vh;
+    padding-left: 20%;
+    padding-top: 20%
+}
+#discover{
+ color: rgb(243, 216, 12);  
+font-size: 20px;
+}
+/* menu */
+@media(max-width:600px){
+    .ho-me2{
+        position: absolute;
+        top: 850px;
+        left: 50px;
+        font-size: 30px;
+        border-radius: 20px;
+        padding-left: 5px;
+        width: 50%;
+        height: 10%;
+    }
+    .menulogoform{
+        position: absolute;
+        top: 300px;
+        left: 110px;
+    }
+    .menu{
+        display: flow-root;
+        color: white;
+    }
+    #resevation{
+        background-color: grey;
+        border-radius: 10px;
+        width: 30px;
+    }
+    .kitisuru{
+            background-image:url(images/65c34fee7c31fcb2f8c3700b_001.jpg) ;
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 78%;
+            height: 60vh;
+            padding-left: 37%;
+            padding-top: 40px
+    }
+    
+    #refertokaribu{
+        padding-left: 5px;
+        position: absolute;
+        font-size: 40px;
+    }
+    
+    #refertokitisuru{ 
+        font-size: 40px;
+        left: 100px;
+        padding-left: 90px;
+        padding-top: 600px;
+        position: absolute;
+    }
+    #kalibu{
+        color: rgb(243, 216, 12);
+        font-size: 20px;
+    }
+     .kilimani{
+        background-image:url(images/ankoleoutside.jpg) ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 75%;
+        height: 60vh;
+        padding-left: 40%;
+        padding-top: 35%
+    }
+    #discover{
+     color: rgb(243, 216, 12);  
+    font-size: 20px;
+    }
+}
+@media(min-width:601px){
+    .ho-me2{
+        position: absolute;
+        top: 600px;
+        left: 350px;
+        font-size: 20px;
+        border: solid 1px white;
+        border-radius: 20px;
+        padding-left: 20px;
+        padding-top: 10px;
+        width: 40%;
+        height: 5%;
+    }
+    .menulogoform{
+        position: absolute;
+        top: 20px;
+        left: 455px;
+    }
+    .menu{
+        display: flex;
+        color: white;
+    }
+    #resevation{
+        background-color: grey;
+        border-radius: 10px;
+        width: 30px;
+    }
+    .kitisuru{
+            background-image:url(images/65c34fee7c31fcb2f8c3700b_001.jpg) ;
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 80%;
+            height: 60vh;
+            font-size: 30px;
+            padding-left: 20%;
+            padding-top: 20%
+    }
+    
+    #refertokaribu{
+        padding-left: 900px;
+        position: absolute;
+        font-size: 40px;
+        left: 15px;
+    }
+    
+    #refertokitisuru{ 
+        font-size: 40px;
+        padding-left: 10px;
+       top: 300px;
+        position: absolute;
+    }
+    
+    #kalibu{
+        color: rgb(243, 216, 12);
+        font-size: 30px;
+    }
+    
+    .kilimani{
+        background-image:url(images/ankoleoutside.jpg) ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 80%;
+        height: 60vh;
+        font-size: 30px;
+        padding-left: 20%;
+        padding-top: 20%
+    }
+    #discover{
+     color: yellow;  
+    font-size: 30px;
+    }
+    .fa-whatsapp{
+        padding-left: 10px;
+        font-size: 50px; 
+        position: absolute;
+        top: 10px;
+        left: 100px;
+        color: grey;
+    }
+    .fa-facebook{
+        position: absolute;
+        top: 200px;
+        left: 860px;
+        color: grey;
+        font-size: 30px;
+    }
+    .fa-square-instagram{
+        position: absolute;
+        top: 150px;
+        left: 860px;
+        color: grey;
+        font-size: 30px;
+    }
+}
+
+
+
+
+/* kilimani */
+.ho-me3{
+    position: absolute;
+    top: 1200px;
+    left: 100px;
+    font-size: 30px;border-radius: 20px;
+    border: solid 1px white;
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 40%;
+    height: 5%;
+}
+.fa-whatsapp-2{
+    padding-left: 10px;
+    font-size: 40px; 
+    position: absolute;
+    top: 10px;
+    left: 770px;
+}
+.fa-facebook-2{
+    position: absolute;
+    top: 200px;
+    left: 860px;
+    color: grey;
+    font-size: 30px;
+}
+.fa-square-instagram-2{
+    position: absolute;
+    top: 150px;
+    left: 860px;
+    color: grey;
+    font-size: 30px;
+}
+#imag{
+    width: 130%;
+    height: 100%;
+}
+.kilimaniinkolelogo{
+    position: absolute;
+    top: 150px;
+    left: 200px; 
+}
+.kitisurihome{
+    display: flex;
+}
+.kili{
+    position: absolute;
+    top: 900px;
+    color: white;
+    left: 450px;
+}
+
+#menukili{position: absolute;
+    top: 10px;
+    color: orange;
+    font-size: 50px;}
+
+.kitisuruhomenu{
+    background: pink;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 50px;
+    width: 80%;
+}
+.foods{
+    display: flex;
+    gap: 10px;
+    padding-left: 30px;
+}
+
+.break-fast{
+    background: pink;
+    width: 100%;
+}
+.latter{
+    display: flex;
+    gap: 600px;
+}
+.mocha{
+    display: flex;
+    gap: 590px; 
+}
+.greentea{display: flex;
+    gap: 570px;  
+}
+.icedtea{display: flex;
+    gap: 580px;  
+}
+.icedlatter{display: flex;
+    gap: 570px; 
+}
+.food-stuffs{
+    display: flow-root;
+    gap: 500px;
+}
+.keen-wasalad{display: flex;
+    gap: 510px;  
+}
+.chicken-salad{ display: flex;
+    gap: 400px; }
+.cobb-salad{
+    display: flex;
+    gap: 540px;    
+}
+.green-salad{ display: flex;
+    gap: 530px;}
+.sweet-potato{
+    display: flex;
+    gap: 500px; 
+}
+.classic-itelian{
+    display: flex;
+    gap: 430px;  
+}
+.dark-chocolate{
+    display: flex;
+    gap: 400px;  
+}
+.warm-crumble{
+    display: flex;
+    gap: 420px; 
+}
+.pineapple-walnut{
+    display: flex;
+    gap: 30px; 
+}
+@media (max-width:600px){
+   
+    .ho-me3{
+        position: absolute;
+        top: 700px;
+        left: 10px;
+        font-size: 20px;  
+         
+    }
+    .fa-whatsapp-2{
+        font-size: 40px; 
+        position: absolute;
+        top: 10px;
+        left: 30px;
+        color: grey;
+    }
+    .fa-facebook-2{
+        position: absolute;
+        top: 100px;
+        left: 330px;
+        color: grey;
+        font-size: 30px;
+    }
+    .fa-square-instagram-2{
+        position: absolute;
+        top: 50px;
+        left: 330px;
+        color: grey;
+        font-size: 30px;
+    }
+    #imag{
+        width: 100%;
+        height: 100vh;
+    }
+    .kitusuruinkolelogo{
+        position: absolute;
+        top: 100px;
+        left: 14px; 
+    }
+    .kitisurihome{
+        display: flow-root;
+    }
+    .kili{
+        position: absolute;
+        top: 480px;
+        color: white;
+        left: 100px;
+    }
+    #menukili{
+        position: absolute;
+        top: 10px;
+        color: orange;
+        font-size: 50px;}
+    
+    .kitisuruhomenu{
+        background: pink;
+        padding-left: 10px;
+        padding-top: 50px;
+        width: 90%;
+    }
+    .foods{
+        display: flow-root;
+        padding-left: 10px;
+    }
+    
+    .break-fast{
+        background: pink;
+        width: 100%;
+    }
+    .latter{
+        display: flex;
+        gap: 200px;
+    }
+    .mocha{
+        display: flex;
+        gap: 190px; 
+    }
+    .greentea{display: flex;
+        gap: 170px;  
+    }
+    .icedtea{display: flex;
+        gap: 180px;  
+    }
+    .icedlatter{display: flex;
+        gap: 170px; 
+    }
+    .keen-wasalad{display: flex;
+        gap: 110px;  
+    }
+    .chicken-salad{ display: flex;
+        gap: 40px; }
+    .cobb-salad{
+        display: flex;
+        gap:150px;    
+    }
+    .green-salad{ display: flex;
+        gap: 150px;}
+    .sweet-potato{
+        display: flex;
+        gap: 140px; 
+    }
+    .classic-itelian{
+        display: flex;
+        gap: 70px;  
+    }
+    .dark-chocolate{
+        display: flex;
+        gap: 40px;  
+    }
+    .warm-crumble{
+        display: flex;
+        gap: 60px; 
+    }
+    .pineapple-walnut{
+        display: flex;
+        gap: 20px; 
+    }    
+}
+@media(min-width:601px){
+    .ho-me3{
+        position: absolute;
+        top: 1200px;
+        left: 30px;
+        font-size: 20px;border-radius: 20px;
+        border: solid 1px white;
+        padding-left: 10px;
+        padding-top: 10px;
+        width: 40%;
+        height: 5%;
+    }
+    .fa-whatsapp-2{
+        padding-left: 10px;
+        font-size: 40px; 
+        position: absolute;
+        top: 10px;
+        left: 770px;
+    }
+    .fa-facebook-2{
+        position: absolute;
+        top: 200px;
+        left: 860px;
+        color: grey;
+        font-size: 30px;
+    }
+    .fa-square-instagram-2{
+        position: absolute;
+        top: 150px;
+        left: 860px;
+        color: grey;
+        font-size: 30px;
+    }
+    #imag{
+        width: 150%;
+        height: 100%;
+    }
+    .kilimaniinkolelogo{
+        position: absolute;
+        top: 10px;
+        left: 100px; 
+    }
+    .kitisurihome{
+        display: flex;
+        width: 100%;
+    }
+    .kili{
+        position: absolute;
+        top: 900px;
+        color: white;
+        left: 450px;
+    }
+    
+    #menukili{position: absolute;
+        top: 10px;
+        color: orange;
+        font-size: 50px;}
+    
+    .kitisuruhomenu{
+        background: pink;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 50px;
+        width: 10%;
+    }
+    .kili{
+        position: absolute;
+        left: 20px;
+    }
+    .foods{
+        display: flex;
+        gap: 10px;
+        padding-left: 30px;
+    }
+    
+    .break-fast{
+        background: pink;
+        width: 100%;
+    }
+    .latter{
+        display: flex;
+        gap: 600px;
+    }
+    .mocha{
+        display: flex;
+        gap: 590px; 
+    }
+    .greentea{display: flex;
+        gap: 570px;  
+    }
+    .icedtea{display: flex;
+        gap: 580px;  
+    }
+    .icedlatter{display: flex;
+        gap: 570px; 
+    }
+    .food-stuffs{
+        display: flow-root;
+        gap: 500px;
+    }
+    .keen-wasalad{display: flex;
+        gap: 510px;  
+    }
+    .chicken-salad{ display: flex;
+        gap: 400px; }
+    .cobb-salad{
+        display: flex;
+        gap: 540px;    
+    }
+    .green-salad{ display: flex;
+        gap: 530px;}
+    .sweet-potato{
+        display: flex;
+        gap: 500px; 
+    }
+    .classic-itelian{
+        display: flex;
+        gap: 430px;  
+    }
+    .dark-chocolate{
+        display: flex;
+        gap: 400px;  
+    }
+    .warm-crumble{
+        display: flex;
+        gap: 420px; 
+    }
+    .pineapple-walnut{
+        display: flex;
+        gap: 30px; 
+    }
+}
+
+
+/* kitisuru */
+.homemenu{
+    position: absolute;
+    top: 1200px;
+    left: 100px;
+    font-size: 25px;border-radius: 20px;
+    border: solid 1px white;
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 40%;
+    height: 5%;
+}
+.fa-whatsapp{
+    padding-left: 10px;
+    font-size: 40px; 
+    position: absolute;
+    top: 10px;
+    left: 770px;
+}
+.fa-facebook-f{
+    position: absolute;
+    top: 200px;
+    left: 860px;
+    color: grey;
+    font-size: 30px;
+}
+.fa-square-instagram{
+    position: absolute;
+    top: 150px;
+    left: 860px;
+    color: grey;
+    font-size: 30px;
+}
+#imag{
+    width: 10%;
+    height: 100%;
+}
+.kitusuruinkolelogo{
+    position: absolute;
+    top: 150px;
+    left: 300px; 
+}
+.kitisurihome{
+    display: flex;
+}
+.kili{
+    position: absolute;
+    top: 800px;
+    color: white;
+    left: 400px;
+}
+#menukili{position: absolute;
+    top: 10px;
+    color: orange;
+    font-size: 50px;}
+
+.kitisuruhomenu{
+    background: pink;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 50px;
+    width: 80%;
+}
+.foods{
+    display: flex;
+    gap: 10px;
+    padding-left: 30px;
+}
+
+.break-fast{
+    background: pink;
+    width: 100%;
+}
+.latter{
+    display: flex;
+    gap: 600px;
+}
+.mocha{
+    display: flex;
+    gap: 590px; 
+}
+.greentea{display: flex;
+    gap: 570px;  
+}
+.icedtea{display: flex;
+    gap: 580px;  
+}
+.icedlatter{display: flex;
+    gap: 570px; 
+}
+.food-stuffs{
+    display: flow-root;
+    gap: 500px;
+}
+.keen-wasalad{display: flex;
+    gap: 510px;  
+}
+.chicken-salad{ display: flex;
+    gap: 400px; }
+.cobb-salad{
+    display: flex;
+    gap: 540px;    
+}
+.green-salad{ display: flex;
+    gap: 530px;}
+.sweet-potato{
+    display: flex;
+    gap: 500px; 
+}
+.classic-itelian{
+    display: flex;
+    gap: 430px;  
+}
+.dark-chocolate{
+    display: flex;
+    gap: 400px;  
+}
+.warm-crumble{
+    display: flex;
+    gap: 420px; 
+}
+.pineapple-walnut{
+    display: flex;
+    gap: 30px; 
+}
+
+
+@media(max-width:600px){
+    .homemenu{
+        position: absolute;
+        top: 640px;
+        left: 10px;
+        font-size: 20px;  
+         
+    }
+    .fa-whatsapp{
+        font-size: 40px; 
+        position: absolute;
+        top: 10px;
+        left: 300px;
+        color: grey;
+    }
+    .fa-facebook-f{
+        position: absolute;
+        top: 100px;
+        left: 330px;
+        color: grey;
+        font-size: 30px;
+    }
+    .fa-square-instagram{
+        position: absolute;
+        top: 50px;
+        left: 330px;
+        color: grey;
+        font-size: 30px;
+    }
+    #imag{
+        width: 100%;
+        height: 100vh;
+    }
+    .kitusuruinkolelogo{
+        position: absolute;
+        top: 100px;
+        left: 14px; 
+    }
+    .kitisurihome{
+        display: flow-root;
+    }
+    .kili{
+        position: absolute;
+        top: 480px;
+        color: white;
+        left: 100px;
+    }
+    #menukili{
+        position: absolute;
+        top: 10px;
+        color: orange;
+        font-size: 50px;}
+    
+    .kitisuruhomenu{
+        background: pink;
+        padding-left: 10px;
+        padding-top: 50px;
+        width: 93%;
+    }
+    .foods{
+        display: flow-root;
+        padding-left: 10px;
+    }
+    
+    .break-fast{
+        background: pink;
+        width: 100%;
+    }
+    .latter{
+        display: flex;
+        gap: 200px;
+    }
+    .mocha{
+        display: flex;
+        gap: 190px; 
+    }
+    .greentea{display: flex;
+        gap: 170px;  
+    }
+    .icedtea{display: flex;
+        gap: 180px;  
+    }
+    .icedlatter{display: flex;
+        gap: 170px; 
+    }
+    .keen-wasalad{display: flex;
+        gap: 110px;  
+    }
+    .chicken-salad{ display: flex;
+        gap: 40px; }
+    .cobb-salad{
+        display: flex;
+        gap:150px;    
+    }
+    .green-salad{ display: flex;
+        gap: 150px;}
+    .sweet-potato{
+        display: flex;
+        gap: 140px; 
+    }
+    .classic-itelian{
+        display: flex;
+        gap: 70px;  
+    }
+    .dark-chocolate{
+        display: flex;
+        gap: 40px;  
+    }
+    .warm-crumble{
+        display: flex;
+        gap: 60px; 
+    }
+    .pineapple-walnut{
+        display: flex;
+        gap: 20px; 
+    } 
+}
+@media(min-width:601px){
+    .homemenu{
+        position: absolute;
+        top: 1200px;
+        left: 100px;
+        font-size: 25px;border-radius: 20px;
+        border: solid 1px white;
+        padding-left: 20px;
+        padding-top: 10px;
+        width: 40%;
+        height: 5%;
+    }
+    .fa-whatsapp{
+        padding-left: 10px;
+        font-size: 40px; 
+        position: absolute;
+        top: 10px;
+        left: 770px;
+    }
+    .fa-facebook-f{
+        position: absolute;
+        top: 200px;
+        left: 860px;
+        color: grey;
+        font-size: 30px;
+    }
+    .fa-square-instagram{
+        position: absolute;
+        top: 150px;
+        left: 860px;
+        color: grey;
+        font-size: 30px;
+    }
+    #imag{
+        width: 130%;
+        height: 100%;
+    }
+    .kitusuruinkolelogo{
+        position: absolute;
+        top: 150px;
+        left: 300px; 
+    }
+    .kitisurihome{
+        display: flex;
+    }
+    .kili{
+        position: absolute;
+        top: 800px;
+        color: white;
+        left: 400px;
+    }
+    #menukili{position: absolute;
+        top: 10px;
+        color: orange;
+        font-size: 50px;}
+    
+    .kitisuruhomenu{
+        background: pink;
+        padding-left: 10px;
+        padding-top: 50px;
+        width: 80%;
+    }
+    .foods{
+        display: flex;
+        gap: 10px;
+        padding-left: 30px;
+    }
+    
+    .break-fast{
+        background: pink;
+        width: 100%;
+    }
+    .food{display: flex;
+        gap: 30px; }
+    .sides{display: flex;
+        gap: 30px; }
+    .drinks{display: flex;
+        gap: 30px; }
+    .happyhour{display: flex;
+        gap: 30px; }
+    .forbreakfast{
+        background: pink;
+    }
+    .latter{
+        display: flex;
+        gap: 600px;
+    }
+    .mocha{
+        display: flex;
+        gap: 590px; 
+    }
+    .greentea{display: flex;
+        gap: 570px;  
+    }
+    .icedtea{display: flex;
+        gap: 580px;  
+    }
+    .icedlatter{display: flex;
+        gap: 570px; 
+    }
+    .food-stuffs{
+        display: flow-root;
+        gap: 500px;
+    }
+    .keen-wasalad{display: flex;
+        gap: 510px;  
+    }
+    .chicken-salad{ display: flex;
+        gap: 400px; }
+    .cobb-salad{
+        display: flex;
+        gap: 540px;    
+    }
+    .green-salad{ display: flex;
+        gap: 530px;}
+    .sweet-potato{
+        display: flex;
+        gap: 500px; 
+    }
+    .classic-itelian{
+        display: flex;
+        gap: 430px;  
+    }
+    .dark-chocolate{
+        display: flex;
+        gap: 400px;  
+    }
+    .warm-crumble{
+        display: flex;
+        gap: 420px; 
+    }
+    .pineapple-walnut{
+        display: flex;
+        gap: 30px; 
+    }
+}

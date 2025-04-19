@@ -1,0 +1,56 @@
+
+.live-home{
+    position: absolute;
+    top: 6000px;
+}
+ .live-home{
+   background-image: url(images/livebackground-image.jpeg);
+   background-size: cover;
+   width: 100%;
+ }
+ #fadhilee-image{
+    width: 40%;
+ }
+ .fadhilee{
+    display: flex;
+    gap: 40px;
+    padding-left: 1100px;
+ }
+ #jack-image{
+    width: 40%;
+    height: 30vh;
+ }
+ .jack{
+    display: flex;
+    padding-left: 1100px;
+    gap: 40px;
+ }
+ #koko-image{
+    width: 40%;
+    height: 30vh;
+ }
+ .koko{
+    display: flex;
+    gap: 40px;
+    padding-left: 800px;
+    position: absolute;
+    left: 300px;
+ }
+ #fad-hilee{
+color: red;
+left: 1200px;
+position: absolute;
+ }
+ #fad-jack{
+    color: red;
+    left: 1500px;
+    position: absolute; 
+ }
+ #fad-hi-lee{
+    color: red;
+    left: 1500px;
+    position: absolute; 
+ }
+ /* #{koko-image{
+    padding-left: 200px;
+ } */

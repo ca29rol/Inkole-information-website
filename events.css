@@ -1,0 +1,226 @@
+/* events */
+.eventdetails{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    gap: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+}
+.accra{
+    background-image: url(images/Accra.jpeg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    width: 50%;
+    padding-top: 30%;
+    
+}
+.nairobi{
+    background-image: url(/images/nairobi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30%;
+    width: 50%;
+}
+.zanzibar{
+    background-image: url(images/rooftop-ambience-barish-moon-bar-and-brewery-853.webp);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding-top: 30%;
+    width: 50%;
+}
+.ho-meevent{
+    position: absolute;
+    top: 850px;
+    font-size: 30px;
+    gap: 50px;
+    left: 600px;
+    border: solid 1px white;
+    border-radius: 20px;
+    width: 55%;
+    padding-left: 70px;
+}
+.fa-whatsapp{
+    position: absolute;
+    left: 1100px;
+    color: rgb(63, 61, 61);
+}
+.fa-square-instagram{
+    position: absolute;
+    top: 90px;
+    left: 1600px;
+    font-size: 40px;
+    color: grey;
+}
+.fa-facebook-f{
+    position: absolute;
+    top: 95px;
+    left: 1600px;
+    font-size: 60px;
+    color: rgb(58, 56, 56); 
+}
+.inkolelogoevent{
+    position: absolute;
+    top: 20px;
+    left: 735px;
+}
+#resevation{
+    background-color: grey;
+    border-radius: 10px;
+    width: 30px;
+}
+
+@media(min-width:601px){
+.eventdetails{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    gap: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.accra{
+    background-image: url(images/Accra.jpeg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    width: 50%;
+    padding-top: 30%;
+    height: 65vh;
+}
+.nairobi{
+    background-image: url(/images/nairobi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30%;
+    width: 50%;
+    height: 65vh;
+}
+.zanzibar{
+    background-image: url(images/rooftop-ambience-barish-moon-bar-and-brewery-853.webp);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding-top: 30%;
+    width: 50%;
+    height: 65vh;
+}
+.ho-meevent{
+    position: absolute;
+    top: 850px;
+    font-size: 30px;
+    gap: 50px;
+    left: 400px;
+    font-size: 40px;
+    border: solid 1px white;
+    border-radius: 20px;
+    width: 55%;
+    padding-left: 70px;
+}
+.fa-whatsapp{
+    position: absolute;
+    left: 1200px;
+    font-size: 50px;
+    color: rgb(48, 46, 46);
+}
+.fa-square-instagram{
+    position: absolute;
+    top: 90px;
+    left: 1600px;
+    font-size: 40px;
+    color: rgb(75, 72, 72);
+}
+.fa-facebook-f{
+    position: absolute;
+    top: 95px;
+    left: 1670px;
+    font-size: 35px;
+    color: rgb(41, 40, 40); 
+}
+.inkolelogoevent{
+    position: absolute;
+    top: 20px;
+    left: 735px;
+}
+#resevation{
+    background-color: grey;
+    border-radius: 10px;
+    width: 30px;
+}
+} 
+  
+ @media(max-width:600px){ 
+  .eventdetails{
+    display: flow-root;
+    height: 100vh;
+    width: 100%;
+    gap: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.accra{
+    background-image: url(images/Accra.jpeg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    width: 100%;
+    padding-top:100%;
+    padding-bottom: 20px;
+}
+.nairobi{
+    background-image: url(/images/nairobi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50%;
+    width: 100%;
+    height: 40vh;
+    padding-bottom: 30px;
+}
+.zanzibar{
+    background-image: url(images/rooftop-ambience-barish-moon-bar-and-brewery-853.webp);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 40px;
+    width: 100%;
+    height: 60vh;
+}
+.ho-meevent{
+    position: absolute;
+    top: 1500px;
+    font-size: 25px;
+    gap: 10px;
+    left: 40px;
+}
+.fa-whatsapp{
+    position: absolute;
+    left: 300px;
+    font-size: 30px;
+    color: rgb(77, 74, 74);
+}
+.fa-square-instagram{
+    position: absolute;
+    top: 80px;
+    left: 330px;
+    font-size: 40px;
+    color: grey;
+}
+.fa-facebook-f{
+    position: absolute;
+    top: 130px;
+    left: 330px;
+    font-size: 30px;
+    color: grey; 
+}
+.inkolelogoevent{
+    position: absolute;
+    top: 20px;
+    left:15px;
+}
+#resevation{
+    background-color: grey;
+    border-radius: 10px;
+    width: 30px;
+}
+}

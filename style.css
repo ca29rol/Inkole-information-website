@@ -1,0 +1,611 @@
+/* homepage */
+.fa-clock-three{
+    width: 10px;
+    height: 10px;
+}
+#welcomhome{
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    font-size: 50px; 
+    color: rgb(255, 255, 255);
+}
+.home{
+    display: flex;
+    font-size: 20px;
+    gap: 70px;
+    text-align: center;
+    position: absolute;
+    background-image: url(images/65c34fee7c31fcb2f8c3700b_001.jpg);
+    padding-left: 30%;
+    height: 105vh;
+    width: 100%;
+    position: absolute;
+    color: white;
+}
+.homeinkolelogo{
+    position: absolute;
+    top: 50px;
+    left: 735px;
+}
+
+/* live */
+.live-home{
+    background-image: url(images/livebackground-image.jpeg);
+    width: 100%;
+    height: 105vh;
+}
+/* contacts */
+.kitisuru-contact{
+
+}
+/* events */
+.eventdetails{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    gap: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.accra{
+    background-image: url(images/Accra.jpeg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    width: 50%;
+    padding-top: 30%;
+    
+}
+.nairobi{
+    background-image: url(/images/nairobi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30%;
+    width: 50%;
+}
+.zanzibar{
+    background-image: url(images/rooftop-ambience-barish-moon-bar-and-brewery-853.webp);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding-top: 30%;
+    width: 50%;
+}
+.ho-meevent{
+    position: absolute;
+    top: 850px;
+    font-size: 30px;
+    gap: 50px;
+    left: 600px;
+}
+.fa-whatsapp{
+    position: absolute;
+    left: 1100px;
+    color: grey;
+}
+.fa-square-instagram{
+    position: absolute;
+    top: 90px;
+    left: 1600px;
+    font-size: 40px;
+    color: grey;
+}
+.fa-facebook-f{
+    position: absolute;
+    top: 95px;
+    left: 1690px;
+    font-size: 30px;
+    color: grey; 
+}
+.fa-square-instagram-1{
+    position: absolute;
+    top: 90px;
+    left: 10px;
+    font-size: 40px;
+    color: grey;
+}
+.inkolelogoevent{
+    position: absolute;
+    top: 20px;
+    left: 735px;
+}
+/* index/homepg */
+.maincontainer{
+    width: 100%;
+    height: 100vh;
+}
+.discover-text{
+    position: absolute;
+    top: 500px;
+    left: 700px;
+    font-size: 80px;
+    color: white;
+}
+.experience-text{
+    position: absolute;
+    top: 500px;
+    left: 7000px;
+    font-size: 80px;
+    color: white;
+}
+.experience-image{
+    width: 105vh;
+}
+.Taste{
+    position: absolute;
+    top: 500px;
+    left: 7000px;
+    font-size: 80px;
+    color: white;  
+}
+
+
+
+.ho-me{
+position: absolute;
+top: 800px;
+font-size: 30px;
+
+}
+.ho-me1{
+    position: absolute;
+    top: 850px;
+    left: 90px;
+    font-size: 30px;
+    }
+    .ho-me2{
+        position: absolute;
+        top: 850px;
+        left: 500px;
+        font-size: 30px;
+        }
+.ho-me3{
+    position: absolute;
+    top: 1200px;
+    left: 100px;
+    font-size: 30px;
+    }
+    /* kitisuru */
+    .kitusuruinkolelogo{
+        position: absolute;
+        top: 150px;
+        left: 200px;  
+    }
+    .kitisuruhomenu{
+        background: pink;
+        padding-left: 50px;
+        padding-top: 50px;
+        width: 50%;
+    }
+    .homemenu{
+       position: absolute;
+        top: 850px;
+        left: 220px;
+    }
+    .menukitisuru{
+    color: rgb(96, 94, 94);
+    }
+    .kitisuru{
+        background-image:url(images/65c34fee7c31fcb2f8c3700b_001.jpg) ;
+        background-repeat: no-repeat;
+        height: 200vh;
+        width: 80%;
+        height: 110vh;
+        padding-left: 20%;
+        padding-top: 20%
+    }
+    .kitisuruhomenu{
+        background: pink;
+        padding-left: 50px;
+        padding-top: 50px;
+        width: 50%;
+    }
+    .menukitisuru{
+    color: rgb(96, 94, 94);
+    }
+    .kitisurihome-image{
+        width: 50%;
+        background-image: url(images/65c34fee7c31fcb2f8c3700b_001.jpg);
+    }
+    .kili{
+        position: absolute;
+        top: 900px;
+        color: white;
+        left: 450px;
+    }
+    #menukili{
+        position: absolute;
+        top: 10px;
+        color: orange;
+        font-size: 50px;
+        
+    }
+    .kitisurihome{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        gap: 0px;
+        margin: 0px;
+        background: pink;
+    }
+    /* kilimani */
+    
+.fa-whatsapp-2{
+    position: absolute;
+    left: 1100px;
+    color: grey;
+}
+.kilimaniinkolelogo{
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+.fa-square-instagram-2{
+    position: absolute;
+    top: 90px;
+    left: 1600px;
+    font-size: 40px;
+    color: grey;
+}
+.fa-facebook-2{
+    position: absolute;
+    top: 95px;
+    left: 1690px;
+    font-size: 30px;
+    color: grey; 
+}
+.fa-square-instagram-2{
+    position: absolute;
+    top: 90px;
+    left: 10px;
+    font-size: 40px;
+    color: grey;
+}
+.rever-sations{
+background-color: gray;
+}
+.kalibuhomeitems{
+    display: flex;
+    position: absolute;
+    top: 3000px;
+    width: 40%;
+    color: white;
+}
+.form-container{
+    display: flex;
+    gap: 30px;
+}
+.inkolelogoform{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.menulogoform{
+    position: absolute;
+    top: 50px;
+    left: 735px;
+}
+#form-image{
+    width: 200%;
+    height: 100%;
+}
+.kalibureversation{
+    position: absolute;
+    top: 600px;
+    left: 300px;
+    font-size: 30px;
+}
+#reversation{
+    color: red;
+    font-size: 50px;
+}
+.form{
+    background-color: black;
+    width: 70%;
+    color: white;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+#submit{
+    width: 90%;
+    height: 6%;
+    font-size: 20px;
+    padding-left: 0px;
+    border-radius: 10px;
+}
+
+/* REVIEW */
+.reviewhome{
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    padding-top: 400px;
+    padding-bottom: 200px;
+}
+.fa-greater-than{
+    position: absolute;
+    top: 550px;
+    left: 1600px;
+    font-size: 30px;
+    color: gray;
+}
+.fa-less-than{
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    font-size: 30px;
+    color: gray;
+}
+.reviewankolologo{
+    position: absolute;
+    top: 25px;
+    right: 700px;
+}
+.ho-me-review{
+        position: absolute;
+        top: 850px;
+        left: 600px;
+        font-size: 30px;
+        color: white;   
+}
+.reviewsubdetails{
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    padding-top: 400px;
+    padding-bottom: 200px; 
+}
+.reviewsub-details{
+background-color: black;
+text-align: center;
+color: white;
+width: 100%;
+height: 100%;
+font-size: 20px;
+padding-top: 400px;
+padding-bottom: 200px; 
+}
+#name{
+    width: 90%;
+    height: 4%;
+}
+#location{
+    width: 90%;
+    height: 4%;  
+}
+#email{
+    width: 90%;
+    height: 4%;   
+}
+#cell{
+    width: 90%;
+    height: 4%;   
+}
+#guest{
+    width: 90%;
+    height: 4%;    
+}
+#date{
+    width: 90%;
+    height: 4%;     
+}
+#time{
+    width: 90%;
+    height: 4%; 
+}
+.menu{
+    display: flex;
+    color: white;
+
+}
+.menukilimani{
+    color: rgb(96, 94, 94);  
+}
+.homemenu{
+    position: absolute;
+    top: 850px;
+    left: 220px;
+}
+#Reservations{
+    border-radius: 20px;
+    background: grey;
+}
+#ankolelogo{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+#kalibu{
+    color: rgb(243, 216, 12);
+    font-size: 20px;
+}
+#discover{
+    color: rgb(243, 216, 12);  
+    font-size: 20px;
+}
+.kilimani{
+    background-image:url(images/65c34fee7c31fcb2f8c3700b_001.jpg) ;
+    background-repeat: no-repeat;
+    height: 200vh;
+    width: 80%;
+    height: 110vh;
+    padding-left: 20%;
+    padding-top: 20%
+}
+.kitisurihome-image{
+    width: 50%;
+    background-image: url(images/65c34fee7c31fcb2f8c3700b_001.jpg);
+}
+.kili{
+    position: absolute;
+    top: 900px;
+    color: white;
+    left: 450px;
+}
+#menukili{
+    color: orange;
+    font-size: 50px;
+    
+}
+.kitisurihome{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 0px;
+    margin: 0px;
+    background: pink;
+}
+.forbreakfast{
+    background: pink;
+    width: 100%;
+}
+.food-stuffs{
+    background: pink;
+}
+.foods{
+    display: flex;
+    gap: 30px;
+    padding-left: 300px;
+}
+.latter{
+    display: flex;
+    gap: 600px;
+}
+.mocha{
+    display: flex;
+    gap: 590px; 
+}
+.greentea{
+    display: flex;
+    gap: 570px;  
+}
+.icedtea{
+    display: flex;
+    gap: 580px;  
+}
+.icedlatter{
+    display: flex;
+    gap: 570px;     
+}
+.beefsalad{
+    display: flex;
+    gap: 500px;
+}
+.keen-wasalad{
+    display: flex;
+    gap: 510px;  
+}
+.chicken-salad{
+    display: flex;
+    gap: 400px;  
+}
+.cobb-salad{
+    display: flex;
+    gap: 540px;   
+}
+.green-salad{
+    display: flex;
+    gap: 530px; 
+}
+.sweet-potato{
+    display: flex;
+    gap: 500px;  
+}
+.classic-itelian{
+    display: flex;
+    gap: 430px;   
+}
+.dark-chocolate{
+    display: flex;
+    gap: 400px;    
+}
+.warm-crumble{
+    display: flex;
+    gap: 420px;     
+}
+.pineapple-walnut{
+    display: flex;
+    gap: 380px;    
+}
+.mango{
+    display: flex;
+    gap: 590px;  
+}
+.pineapple{
+    display: flex;
+    gap: 560px;   
+}
+.orange{
+    display: flex;
+    gap: 580px;    
+}
+.sugercane{
+    display: flex;
+    gap: 550px;   
+}
+.tomato{
+    display: flex;
+    gap: 540px;  
+}
+.strawberry-ginger{
+    display: flex;
+    gap: 360px;    
+}
+.pineapple-mint{
+    display: flex;
+    gap: 520px;  
+}
+.sugercane-ginger{
+    display: flex;
+    gap: 510px;  
+}
+.vanilla{
+    display: flex;
+    gap: 580px;
+}
+.chocolate-fudge{
+    display: flex;
+    gap: 500px; 
+}
+.espresso-fudge{
+    display: flex;
+    gap: 510px;    
+}
+.ginandtonic{
+    display: flex;
+    gap: 530px;   
+}
+.classic-cosmopolitan{
+    display: flex;
+    gap: 460px;   
+}
+.passion-mabuyu{
+    display: flex;
+    gap: 440px;    
+}
+.watermelon-mojito{
+    display: flex;
+    gap: 480px;   
+}
+
+
+
+#refertokitisuru{
+    padding-left: 900px;
+    position: absolute;
+    font-size: 40px;
+    
+}#refertokaribu{
+    font-size: 40px;
+
+}
+body{
+    overflow-x: hidden;
+}

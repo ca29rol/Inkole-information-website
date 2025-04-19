@@ -1,0 +1,120 @@
+.inkolelogocontact{
+    position: absolute;
+    top: 10px;
+    left: 735px;
+}
+.kitisuru-contact{
+    background-image:  url(images/65c34fee7c31fcb2f8c3700b_001.jpg);
+    display: flex;
+    padding-left: 400px ;
+    gap: 30px;
+    font-size: 20px;
+    padding-top: 400px;
+    color: white;
+    height: 80vh;
+    overflow-y:hidden
+}
+.kitisurucontactus{
+    border: solid 2px white;
+    width: 40%;
+    height: 40vh;
+    padding-left: 20px;
+}
+.Kilimanicontactus{
+    border: solid 2px white;
+    width: 40%;
+    height: 38vh;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.ho-mecontactus{
+position: absolute;
+top: 860px;
+font-size: 30px;
+left: 600px;
+border: 1px solid white;
+border-radius: 20px;
+width: 40%;
+padding-left: 40px;
+}
+#resevation{
+    background-color: grey;
+    border-radius: 10px;
+    width: 30px;
+}
+.fa-square-instagram{
+    position: absolute;
+    top: 90px;
+    left: 1600px;
+    font-size: 40px;
+    color: grey;
+}
+.fa-facebook-f{
+    position: absolute;
+    top: 95px;
+    left: 1690px;
+    font-size: 30px;
+    color: grey; 
+}
+.fa-whatsapp{
+    position: absolute;
+    left: 1100px;
+    color: grey;
+}
+@media(max-width:600px){
+    .inkolelogocontact{
+        position: absolute;
+        top: 20px;
+        left: 50px;
+    }
+    .kitisuru-contact{
+        background-image: url(images/65c34fee7c31fcb2f8c3700b_001.jpg);
+        background-repeat: no-repeat;
+        display: flow-root;
+        padding-left: 30px;
+        font-size: 20px;
+        padding-top: 400px;
+        color: white;
+        height: 300vh;
+    }
+    .kitisurucontactus{
+        border: solid 2px white;
+        width:80%;
+        height: 40vh;
+       
+    }
+    .Kilimanicontactus{
+        border: solid 2px white;
+        width: 80%;
+        height: 45vh;
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+    .ho-mecontactus{
+    position: absolute;
+    display: flow-root;
+    padding-left: 20px;
+    top: 1200px;
+    font-size: 30px;
+    left: 6px;
+    }
+    .fa-square-instagram{
+        position: absolute;
+        top: 60px;
+        left: 370px;
+        font-size: 40px;
+        color: rgb(41, 40, 40);
+    }
+    .fa-facebook-f{
+        position: absolute;
+        top: 120px;
+        left: 370px;
+        font-size: 30px;
+        color: rgb(39, 38, 38); 
+    }
+    .fa-whatsapp{
+        position: absolute;
+        left: 360px;
+        color: rgb(194, 189, 189);
+    }
+}
