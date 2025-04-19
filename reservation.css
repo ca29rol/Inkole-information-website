@@ -50,7 +50,7 @@
 .rever-sations{
     background-color: gray;
     }
-    .kalibuhomeitems{
+.kalibuhomeitems{
         display: flex;
         position: absolute;
         top: 3000px;
@@ -92,16 +92,7 @@
         position: absolute;
         top: 300px;
         left: 300px;
-    }
-    .fa-facebook-f{
-
-    }
-    #resevation{
-
-    }
-    .fa-whatsapp{
-
-    }
+     }
     .form{
         background-color: black;
         width: 80%;
@@ -121,32 +112,22 @@
 .creditial{
 display: flex;
 width: 100%;
-    }
-
-/* .fa-square-instagram{
-
+ }.fa-whatsapp{
+    position: absolute;
+    left: 20px;
+    color: rgb(63, 61, 61);
 }
-.fa-facebook-f{
-
+.fa-square-instagram{
+    position: absolute;
+    top: 90px;
+    left: 200px;
+    font-size: 40px;
+    color: grey;
 }
-.inkolelogoform{
-
+.fa-facebook{
+    position: absolute;
+    top: 95px;
+    left: 100px;
+    font-size: 60px;
+    color: rgb(58, 56, 56); 
 }
-.kalibureversation{
-
-}
-#reversation{
-
-}
-.creditial{
-
-}
-.form-container{
-
-}
-#form-image{
-
-}
-.form{
-
-} */

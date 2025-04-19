@@ -1,12 +1,18 @@
 
 .live-home{
     position: absolute;
-    top: 6000px;
+    top: 7000px;
 }
- .live-home{
+ .livehome{
    background-image: url(images/livebackground-image.jpeg);
    background-size: cover;
    width: 100%;
+   height: 109vh;
+ }
+ .livestories{
+   position: absolute;
+   top: 5cm;
+   padding-right: 30px;
  }
  #fadhilee-image{
     width: 40%;
@@ -36,6 +42,24 @@
     position: absolute;
     left: 300px;
  }
+ #livetukatike{
+   position: absolute;
+   top: 13cm;
+   left: 4cm;
+   font-size: 60px;
+   color: red;
+ }
+ .tukatikelive{
+   position: absolute;
+   left: 7cm;
+   top: 7cm;
+ }
+ #tukatike{
+   position: absolute;
+   top: 12cm;
+   left: 4cm;
+   font-size: 20px;
+ }
  #fad-hilee{
 color: red;
 left: 1200px;
@@ -51,6 +75,24 @@ position: absolute;
     left: 1500px;
     position: absolute; 
  }
- /* #{koko-image{
-    padding-left: 200px;
- } */
+ .ho-me2{
+   position: relative;
+   top: 23cm;
+   left: 3cm;
+   font-size: 30px;
+   border: solid 1px white;
+   border-radius: 20px;
+   width: 40%;
+   height: 1.3cm;
+   padding-left: 100px;
+   padding-top: 10px;
+ }
+ #resevation{
+   background-color: grey;
+   border-radius: 20px;
+ }
+ #inkole-logo{
+   position: absolute;
+   top: 0.38cm;
+   left: 1cm;
+ }

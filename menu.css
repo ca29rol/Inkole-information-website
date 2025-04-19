@@ -1,7 +1,7 @@
 .ho-me2{
     position: absolute;
-    top: 850px;
-    left: 500px;
+    top: 10000px;
+    left: 600px;
     font-size: 30px;
     border: solid 1px white;
     border-radius: 20px;
@@ -59,8 +59,30 @@
  color: rgb(243, 216, 12);  
 font-size: 20px;
 }
+.fa-facebook{
+    position: relative;
+    top: 30px;
+    left: 4oopx;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* menu */
-@media(max-width:600px){
+@media only screen and (max-width:600px){
     .ho-me2{
         position: absolute;
         top: 850px;
@@ -126,12 +148,16 @@ font-size: 20px;
     font-size: 20px;
     }
 }
-@media(min-width:601px){
+
+
+
+
+ @media only screen and (min-width:600px){
     .ho-me2{
         position: absolute;
-        top: 600px;
+        top: 800px;
         left: 350px;
-        font-size: 20px;
+        font-size: 30px;
         border: solid 1px white;
         border-radius: 20px;
         padding-left: 20px;
@@ -142,7 +168,7 @@ font-size: 20px;
     .menulogoform{
         position: absolute;
         top: 20px;
-        left: 455px;
+        left: 755px;
     }
     .menu{
         display: flex;
@@ -174,7 +200,7 @@ font-size: 20px;
     #refertokitisuru{ 
         font-size: 40px;
         padding-left: 10px;
-       top: 300px;
+        top: 00px;
         position: absolute;
     }
     
@@ -219,7 +245,7 @@ font-size: 20px;
         color: grey;
         font-size: 30px;
     }
-}
+} 
 
 
 
@@ -350,7 +376,7 @@ font-size: 20px;
     display: flex;
     gap: 30px; 
 }
-@media (max-width:600px){
+@media only screen and (max-width:600px){
    
     .ho-me3{
         position: absolute;
@@ -468,7 +494,7 @@ font-size: 20px;
         gap: 20px; 
     }    
 }
-@media(min-width:601px){
+@media only screen and (min-width:601px){
     .ho-me3{
         position: absolute;
         top: 1200px;
@@ -729,7 +755,7 @@ font-size: 20px;
 }
 
 
-@media(max-width:600px){
+@media only screen and (max-width:600px){
     .homemenu{
         position: absolute;
         top: 640px;
@@ -846,7 +872,7 @@ font-size: 20px;
         gap: 20px; 
     } 
 }
-@media(min-width:601px){
+@media only screen and (min-width:601px){
     .homemenu{
         position: absolute;
         top: 1200px;
